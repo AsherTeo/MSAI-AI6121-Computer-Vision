@@ -7,7 +7,7 @@ Orignal:!
 
 Histogram Equalization:
 [sample1_HE](https://user-images.githubusercontent.com/78581569/215754038-8aa5d7ff-0ae2-400e-92bd-868010c4af13.jpg)
-[sample5_HE](https://user-images.githubusercontent.com/78581569/215755279-602d8804-72ca-4db9-86ce-6ad83f360fb8.jpeg
+[sample5_HE](https://user-images.githubusercontent.com/78581569/215755279-602d8804-72ca-4db9-86ce-6ad83f360fb8.jpeg)
 
 
 Enhanced Histogram Equalization:!
