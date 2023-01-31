@@ -1,5 +1,6 @@
 # MSAI-AI6121-Computer-Vision
-For Assignment 1, we are given a few images and we are required to use Histogram Equalization to improve the performance of the image. 
+For Assignment 1, we are given a few images and we are required to use Histogram Equalization (HE) to enhance the performance of the image. However, the one of the cons of HE is the overall abnormal brightness in the image. For example, when HE is applied to a dim image, the image may look excessive enhanced espeically its brightness. Therefore, we further enahnced the HE by incorporating gamma correction in HE using this research paper - " Contrast enhancement of brightness-distorted images by improved adaptive gamma correction" by Gang Cao, Li Hui, HuaWei Tan. 
+
 
 Original:
 [sample1](https://user-images.githubusercontent.com/78581569/215753866-f49bb03b-2a43-4c5b-b8bb-74d0f27b2deb.jpg)
