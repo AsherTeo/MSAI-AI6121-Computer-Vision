@@ -20,6 +20,9 @@ Enhanced Histogram Equalization:
 [sample1_GAMMA](https://user-images.githubusercontent.com/78581569/215754111-c7c2cdc8-ed41-4eb0-9772-dfd324b702d0.jpg)
 [sample5 _GAMMA](https://user-images.githubusercontent.com/78581569/215755318-b17242db-8146-4dc0-b5d9-ec2073766711.jpeg)
 
+For Assignment 2, we are given a few pair of images and are required to write a computer algorthim that compute the disparity between left and right of the image. Disparity only can be computed when there are two images lying along the x-axis. The pair of images can create a triangle when facing at the same point. The distance between the two images is called the translation (T) and the distance perpendicular from the object point to the translation is called the depth (Z). In order to find the disparity, we need to find the corresponding pixel from the right image to match the pixel from the left image. Since there is only changes in x-axis, the pixels in the right image will only search that particular row for the corresponding pixel. The distance difference 
+between the similar pixel from the left and right image is called the disparity.
+
 
 
 For Assignment 3, I discuss about the existing problems that computer vision is facing and introducing some of the existings Generative Adversarial Net (GAN) such as Pix2pix GAN and CycleGAN to improve the issues. In addition, I also discuss about the correct metrics that we should use for different type of GAN.
