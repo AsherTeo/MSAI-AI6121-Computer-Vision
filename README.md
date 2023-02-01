@@ -20,12 +20,12 @@ Enhanced Histogram Equalization:
 [sample1_GAMMA](https://user-images.githubusercontent.com/78581569/215754111-c7c2cdc8-ed41-4eb0-9772-dfd324b702d0.jpg)
 [sample5 _GAMMA](https://user-images.githubusercontent.com/78581569/215755318-b17242db-8146-4dc0-b5d9-ec2073766711.jpeg)
 
-For Assignment 2, we are given a few pair of images and are required to write a computer algorthim that compute the disparity between left and right of the image. Disparity only can be computed when there are two images lying along the x-axis. The pair of images can create a triangle when facing at the same point. The distance between the two images is called the translation (T) and the distance perpendicular from the object point to the translation is called the depth (Z). 
+For Assignment 2, we are given a few pair of images and are required to write a computer algorthim that compute the disparity between left and right of the image. Disparity only can be computed when there are two images lying along the x-axis. The pair of images can create a triangle when facing at the same point. The distance between the two images is called the translation (T) and the distance perpendicular from the object point to the translation is called the depth (Z). I used Sum-of-Squared Difference (SSD) to compute point matching. For more information, please refer to my PDF in assignment-2. 
 
 ![image](https://user-images.githubusercontent.com/78581569/216006020-0c662575-3124-48c7-b2db-6b754d2c2dc7.png) ![image](https://user-images.githubusercontent.com/78581569/216006204-cc1f28c3-62d9-4f90-9a85-5a9e7174f51a.png)
 
 
-For Assignment 3, I discuss about the existing problems that computer vision is facing and introducing some of the existings Generative Adversarial Net (GAN) such as Pix2pix GAN and CycleGAN to improve the issues. In addition, I also discuss about the correct metrics that we should use for different type of GAN.
+For Assignment 3, I discuss about the existing problems that computer vision is facing and introducing some of the existing Generative Adversarial Net (GAN) such as Pix2pix GAN and CycleGAN to improve the issues. In addition, I also discuss about the correct metrics that we should use for different type of GAN.
 *Out of curiosity, I trained a model using CycleGAN using red and black dress and the result can be shown below. 
 
 ![image](https://user-images.githubusercontent.com/78581569/216008041-ceca5197-ec3c-4f49-96e0-4f7a8f17134d.png)
