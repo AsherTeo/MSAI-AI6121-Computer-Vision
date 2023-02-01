@@ -12,8 +12,9 @@ Original:
 [sample5](https://user-images.githubusercontent.com/78581569/215754983-487cfa4c-766b-4966-8365-8ad4a7ca31ac.jpeg)
 
 Histogram Equalization:
-[sample1_HE](https://user-images.githubusercontent.com/78581569/215754038-8aa5d7ff-0ae2-400e-92bd-868010c4af13.jpg)
-[sample5_HE](https://user-images.githubusercontent.com/78581569/215755279-602d8804-72ca-4db9-86ce-6ad83f360fb8.jpeg)
+
+![sample1_HE](https://user-images.githubusercontent.com/78581569/215754038-8aa5d7ff-0ae2-400e-92bd-868010c4af13.jpg)
+![sample5_HE](https://user-images.githubusercontent.com/78581569/215755279-602d8804-72ca-4db9-86ce-6ad83f360fb8.jpeg)
 
 
 Enhanced Histogram Equalization:
@@ -22,8 +23,7 @@ Enhanced Histogram Equalization:
 
 For Assignment 2, we are given a few pair of images and are required to write a computer algorthim that compute the disparity between left and right of the image. Disparity only can be computed when there are two images lying along the x-axis. The pair of images can create a triangle when facing at the same point. The distance between the two images is called the translation (T) and the distance perpendicular from the object point to the translation is called the depth (Z). 
 
-![image](https://user-images.githubusercontent.com/78581569/216006020-0c662575-3124-48c7-b2db-6b754d2c2dc7.png)        
-![image](https://user-images.githubusercontent.com/78581569/216006204-cc1f28c3-62d9-4f90-9a85-5a9e7174f51a.png)
+![image](https://user-images.githubusercontent.com/78581569/216006020-0c662575-3124-48c7-b2db-6b754d2c2dc7.png) ![image](https://user-images.githubusercontent.com/78581569/216006204-cc1f28c3-62d9-4f90-9a85-5a9e7174f51a.png)
 
 
 For Assignment 3, I discuss about the existing problems that computer vision is facing and introducing some of the existings Generative Adversarial Net (GAN) such as Pix2pix GAN and CycleGAN to improve the issues. In addition, I also discuss about the correct metrics that we should use for different type of GAN.
