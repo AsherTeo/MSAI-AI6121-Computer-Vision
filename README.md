@@ -2,7 +2,7 @@
 For Assignment 1, we are given a few images and we are required to use Histogram Equalization (HE) to enhance the performance of the image. However, one of the cons of HE is the overall abnormal brightness in the image. For example, when HE is applied to a dim image, the image may look excessive enhanced espeically its brightness. 
 Another constrast enhancement method is called Gamma Correction. However, the cons of Gamma Correction is that it is hard to find the correct gamma coefficient for each pixel. Therefore, in this paper [1], the author will be using CDF to find the ideal gamma coefficient. With the help of adaptive gamma correction, it will enhance the constrast of the images espeically on dimmed images. 
 
-I have implmented an Enhanced Histogram Equalization algorithm by incorporate the knowledge of previous Histogram Equalization and Adaptive Gamma Correction. [1]
+I have implmented an Enhanced Histogram Equalization algorithm by incorporating the knowledge of previous Histogram Equalization and Adaptive Gamma Correction. [1]
 
 [1] - Gang Cao, Li Hui, HuaWei Tan. Contrast enhancement of brightness-distorted images by improved adaptive gamma correction" 2018
 
