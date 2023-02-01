@@ -22,4 +22,6 @@ Enhanced Histogram Equalization:
 
 For Assignment 3, I discuss about the existing problems that computer vision is facing and introducing some of the existings Generative Adversarial Net (GAN) such as Pix2pix GAN and CycleGAN to improve the issues. In addition, I also discuss about the correct metrics that we should use for different type of GAN.
 
+For the Final Project, we are required to desgin our own network and train it using MNIST training datasets and evaluate over test datasets. After that, we need to investigata different hyper-parameters such as learning rate, loss function, etc. Lastly, we need to benchmark with the state-of-the-art and discuss the possible improvements.    
+
 
