@@ -8,7 +8,6 @@ I have implmented an Enhanced Histogram Equalization algorthim by incorporate th
 
 
 Original:
-
 ![sample1](https://user-images.githubusercontent.com/78581569/215753866-f49bb03b-2a43-4c5b-b8bb-74d0f27b2deb.jpg)
 ![sample5](https://user-images.githubusercontent.com/78581569/215754983-487cfa4c-766b-4966-8365-8ad4a7ca31ac.jpeg)
 
@@ -19,8 +18,8 @@ Histogram Equalization:
 
 
 Enhanced Histogram Equalization:
-[sample1_GAMMA](https://user-images.githubusercontent.com/78581569/215754111-c7c2cdc8-ed41-4eb0-9772-dfd324b702d0.jpg)
-[sample5 _GAMMA](https://user-images.githubusercontent.com/78581569/215755318-b17242db-8146-4dc0-b5d9-ec2073766711.jpeg)
+![sample1_GAMMA](https://user-images.githubusercontent.com/78581569/215754111-c7c2cdc8-ed41-4eb0-9772-dfd324b702d0.jpg)
+![sample5 _GAMMA](https://user-images.githubusercontent.com/78581569/215755318-b17242db-8146-4dc0-b5d9-ec2073766711.jpeg)
 
 For Assignment 2, we are given a few pair of images and are required to write a computer algorthim that compute the disparity between left and right of the image. Disparity only can be computed when there are two images lying along the x-axis. The pair of images can create a triangle when facing at the same point. The distance between the two images is called the translation (T) and the distance perpendicular from the object point to the translation is called the depth (Z). 
 
