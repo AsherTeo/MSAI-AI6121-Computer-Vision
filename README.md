@@ -26,7 +26,9 @@ For Assignment 2, we are given a few pair of images and are required to write a 
 
 
 For Assignment 3, I discuss about the existing problems that computer vision is facing and introducing some of the existings Generative Adversarial Net (GAN) such as Pix2pix GAN and CycleGAN to improve the issues. In addition, I also discuss about the correct metrics that we should use for different type of GAN.
+*Out of curiosity, I trained a model using CycleGAN using extracted datasets from google images shown below. 
 
+![image](https://user-images.githubusercontent.com/78581569/216008041-ceca5197-ec3c-4f49-96e0-4f7a8f17134d.png)
 
 
 For the Final Project, we are required to design our own network and train it using MNIST training datasets and evaluate over test datasets. After that, we need to investigate different hyper-parameters such as learning rate, loss function, etc. Lastly, we need to benchmark with the state-of-the-art and discuss the possible improvements. For this project, I trained using two-layers convolutional layers , (1 -> 25) and (25 -> 100), and two linear layers, (4900 -> 100) and (100 -> 10). I experimented different learning rates (0.1, 0.01, 0.001) with different epoches (100, 200). The best result will be further experimented using different optimizers (SGD, Adam and AdamW) and learning rate scheduler (Constant, Cosine Annealing Learning Rate and Step Learning Rate). In neural network, overfitting is a common issue. It normally occurs when the network memorized the training data instead of learning from the training data which lead to poor performance on validation and testing datasets. Therefore, to solve this issue, we need to apply Regularization to Neural Network. The two Regularization methods that I have used are by adding weight decay in the optimizers and applying data augmentation on training datasets such as Horizontal Flip, Random Crop, Cut-out and etc. Finally, I also experimented pre-trained Resnet-18 model. 
