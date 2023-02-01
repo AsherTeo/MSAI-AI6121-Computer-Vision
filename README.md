@@ -25,8 +25,7 @@ For Assignment 2, we are given a few pair of images and are required to write a 
 ![image](https://user-images.githubusercontent.com/78581569/216006020-0c662575-3124-48c7-b2db-6b754d2c2dc7.png) ![image](https://user-images.githubusercontent.com/78581569/216006204-cc1f28c3-62d9-4f90-9a85-5a9e7174f51a.png)
 
 
-For Assignment 3, I discuss about the existing problems that computer vision is facing and introducing some of the existing Generative Adversarial Net (GAN) such as Pix2pix GAN and CycleGAN to improve the issues. In addition, I also discuss about the correct metrics that we should use for different type of GAN.
-Out of curiosity, I trained a model using CycleGAN using red and black dress and the result can be shown below. 
+For Assignment 3, I discuss about the existing problems that computer vision is facing and introducing some of the existing Generative Adversarial Net (GAN) such as Pix2pix GAN and CycleGAN to improve the issues. In addition, I also discuss about the correct metrics that we should use for different type of GAN. I trained a model using CycleGAN using red and black dress and the result can be shown below. 
 
 ![image](https://user-images.githubusercontent.com/78581569/216008041-ceca5197-ec3c-4f49-96e0-4f7a8f17134d.png)
 
